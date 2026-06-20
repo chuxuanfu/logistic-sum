@@ -1,4 +1,4 @@
-# Logistic Sum
+# Chuxuan Fu Logistic Sum function
 
 Plot multiple logistic functions and their summed curve.
 
